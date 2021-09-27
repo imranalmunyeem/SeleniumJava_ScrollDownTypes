@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-27T15:04:57 BDT" name="Default suite" finished-at="2021-09-27T15:05:09 BDT" duration-ms="12357">
+    <groups>
+    </groups>
+    <test started-at="2021-09-27T15:04:57 BDT" name="Default test" finished-at="2021-09-27T15:05:09 BDT" duration-ms="12357">
+      <class name="scroll_down.ScrollDownTypes">
+        <test-method is-config="true" signature="setDriver()[pri:0, instance:scroll_down.ScrollDownTypes@46fa7c39]" started-at="2021-09-27T15:04:55 BDT" name="setDriver" finished-at="2021-09-27T15:04:57 BDT" duration-ms="2364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method signature="ScrollDown()[pri:0, instance:scroll_down.ScrollDownTypes@46fa7c39]" started-at="2021-09-27T15:04:57 BDT" name="ScrollDown" finished-at="2021-09-27T15:05:09 BDT" duration-ms="12336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScrollDown -->
+        <test-method is-config="true" signature="close()[pri:0, instance:scroll_down.ScrollDownTypes@46fa7c39]" started-at="2021-09-27T15:05:09 BDT" name="close" finished-at="2021-09-27T15:05:10 BDT" duration-ms="204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- scroll_down.ScrollDownTypes -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
